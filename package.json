@@ -13,5 +13,8 @@
     "express": "^4.17.1",
     "n-readlines": "^1.0.0",
     "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "@flydotio/node-demo": "^0.2.1"
   }
 }
