@@ -58,5 +58,11 @@ module.exports = {
 		"name": "Pekora",
 		"full": "Pekora Usada",
 		"wiki": "https://wiki.gbl.gg/w/Idol_Showdown/Pekora_Usada"
+	},
+	"in": {
+		"id": "in",
+		"name": "Ina",
+		"full": "Ninomae Ina'nis",
+		"wiki": "https://wiki.gbl.gg/w/Idol_Showdown/Ninomae_InaNis"
 	}
 };
