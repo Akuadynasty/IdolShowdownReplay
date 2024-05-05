@@ -14,7 +14,7 @@ module.exports = {
 		},
 		{
 			"name": "Edward Yolag",
-			"html": "<p>Programador Web, videojuegos, Youtube, dormir.</p><a href=></a>",
+			"html": "<p>Programador Web, 7216 Matsuri seiso powerups</p><a href=></a>",
 			"img": "/img/EY.png",
 			"token": "EY"
 		},
