@@ -108,9 +108,11 @@ a {
 	display: flex;
 	margin: .5rem;
 	height: 100px;
+	width: 100px;
 }
 .card-img img {
 	border-radius: 4px;
+	width: inherit;
 }
 .ms-pagination {
 	display: flex;
