@@ -14,7 +14,7 @@ module.exports = {
 		},
 		{
 			"name": "Edward Yolag",
-			"html": "<p>Programador Web, 7216 Matsuri seiso powerups</p><a href=></a>",
+			"html": "<p>Programador Web, 7216 Matsuri seiso powerups</p><a href='https://twitter.com/EdwardYolag'></a>",
 			"img": "/img/EY.png",
 			"token": "EY"
 		},
@@ -47,6 +47,18 @@ module.exports = {
 			"html": "<p>Face of the Idolshowdown community</p><a href=''></a>",
 			"img": "/img/CA.png",
 			"token": "CA"
+		},
+		{
+			"name": "Ludgerkant",
+			"html": "<p>Nousagi Believer y Rosarian en mis tiempos libres</p><a href=''></a>",
+			"img": "/img/LK.png",
+			"token": "LKNT"
+		},
+		{
+			"name": "Kuroi",
+			"html": "<p>Idol Showdown Sud multitask member</p><a href=''></a>",
+			"img": "/img/KR.jpg",
+			"token": "KRI"
 		}
 	]
 };
