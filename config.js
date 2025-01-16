@@ -53,12 +53,6 @@ module.exports = {
 			"html": "<p>Nousagi Believer y Rosarian en mis tiempos libres</p><a href=''></a>",
 			"img": "/img/LK.png",
 			"token": "LKNT"
-		},
-		{
-			"name": "Kuroi",
-			"html": "<p>Idol Showdown Sud multitask member</p><a href=''></a>",
-			"img": "/img/KR.jpg",
-			"token": "KRI"
 		}
 	]
 };
