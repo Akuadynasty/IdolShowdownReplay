@@ -64,5 +64,11 @@ module.exports = {
 		"name": "Ina",
 		"full": "Ninomae Ina'nis",
 		"wiki": "https://wiki.gbl.gg/w/Idol_Showdown/Ninomae_InaNis"
+	},
+	"ky": {
+		"id": "ky",
+		"name": "Koyori",
+		"full": "Koyori Hakui",
+		"wiki": "https://wiki.gbl.gg/w/Idol_Showdown/Koyori_Hakui"
 	}
 };
