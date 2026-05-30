@@ -70,5 +70,11 @@ module.exports = {
 		"name": "Koyori",
 		"full": "Koyori Hakui",
 		"wiki": "https://wiki.gbl.gg/w/Idol_Showdown/Koyori_Hakui"
+	},
+	"bj": {
+		"id": "bj",
+		"name": "Bijou",
+		"full": "Koseki Bijou",
+		"wiki": "https://wiki.gbl.gg/w/Idol_Showdown/Koseki_Bijou"
 	}
 };
